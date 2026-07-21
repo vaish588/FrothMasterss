@@ -1,0 +1,226 @@
+body {
+    margin: 0;
+    background-color: beige;
+}
+
+.red {
+    display: flex;
+    gap: 340px;
+    padding: 10px;
+    background-color: rgb(56, 6, 6);
+    text-align: center;
+}
+
+.a {
+    font-size: 19px;
+    color: beige;
+    font-style: italic;
+    cursor: pointer;
+
+}
+
+span {
+    font-family: cursive;
+    color: gold;
+    font-style: italic;
+
+}
+
+.b {
+    gap: 50px;
+
+}
+
+.b nav a {
+    text-decoration: none;
+    color: beige;
+    font-size: 20px;
+    padding: 4px;
+
+}
+
+.c button {
+    background-color: gold;
+    cursor: pointer;
+    border: 3px;
+    border-radius: 3px;
+    font-size: 14px;
+    color: rgb(56, 6, 6);
+    padding: 10px;
+
+}
+
+.blue {
+    background-image: url(https://images.unsplash.com/photo-1690983326252-ce6205fb7055?q=80&w=960&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 250px;
+    font-size: 80px;
+    color: beige;
+
+}
+
+.blue pre {
+    font-size: 20px;
+}
+
+center {
+    color: rgb(190, 178, 65);
+    font-family: cursive;
+    font-size: 20px;
+}
+
+p {
+    font-size: 30px;
+    text-align: center;
+    font-weight: bold;
+}
+
+.pink {
+    display: flex;
+    padding-left: 200px;
+    padding-right: 250px;
+    padding-top: 50px;
+    gap: 80px;
+    justify-content: center;
+    
+
+}
+
+b {
+    font-size: 20px;
+}
+
+.pink p {
+    font-size: 15px;
+    font-weight: normal;
+    text-align: left;
+   
+}
+
+.pink pre {
+    color: rgb(190, 163, 4);
+    font-size: 20px;
+    margin: 10px;
+}
+
+.pink button {
+    background-color: rgb(56, 6, 6);
+    color: beige;
+    border: 3px;
+    border-radius: 3px;
+margin: 0px;
+    cursor: pointer;
+}
+
+.d img {
+    border: 4px rgb(56, 6, 6);
+    border-radius: 15px;
+}
+.purple{
+ 
+  border: 15px;
+    border-radius: 15px;
+    background-color:rgb(56, 6, 6);
+    margin:250px 5px 0px 5px ;
+}
+.x{
+    display: flex;
+   
+    gap: 100px;
+}   
+.v{
+    display: flex;
+ 
+ gap: 15px;   
+
+}
+
+.w b{
+    color: beige;
+}
+
+.w p{
+    font-size: 12px;
+    text-align: left;
+    color: beige;
+}
+.green{
+    background-image: url(https://images.unsplash.com/photo-1664349545842-85e79b22bb49?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDd8fHxlbnwwfHx8fHw%3D);
+    color: beige;
+    margin-top: 50px;
+    padding: 80px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.green p{
+    text-align: right;
+    font-size: 40px;
+}
+.green pre{
+    text-align: right;
+    font-family: sans-serif;
+}
+.y{
+    display: flex;
+    justify-content: right;
+    gap: 80px;
+    text-align: left;
+}
+.y div b{
+color: gold;
+font-size: 25px;
+}
+.green button{
+    background-color: gold;
+    border: 3px;
+    border-radius: 3px;
+    padding: 8px;
+    cursor: pointer;
+}
+.orange{
+    background-color: rgb(41, 1, 1);
+    padding-top: 2px;
+    display: flex;
+    gap: 350px;
+}
+.m{
+    justify-content: left;
+}
+.m nav img{
+    border: 15px;
+    border-radius: 50px;
+    cursor: pointer;
+}
+.m pre{
+    color: beige;
+    font-family: sans-serif;
+    font-size: 15px;
+}
+.m p{
+    color: beige;
+}
+.n ul li a{
+    text-decoration: none;
+    color: beige;
+    
+}
+.n{
+    color: beige;
+}
+.o{
+    color: beige;
+    justify-content: right;
+}
+.o pre{
+    font-family: sans-serif;
+
+}
+footer{
+     background-color: rgb(41, 1, 1);
+    padding-top: 2px;
+    color: beige;
+    text-align: center;
+}
